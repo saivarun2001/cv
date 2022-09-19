@@ -1,0 +1,23 @@
+body {
+  background-color: #EEF1FF;
+}
+
+hr {
+  border-color: #B1B2FF;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+}
+h1 {
+  color: #4C0027;
+  font-family: monospace;
+}
+h3 {
+  color: #4C0027;
+  font-family: monospace;
+}
+p {
+  color: #0F0E0E;
+  font-family: system-ui;
+}
